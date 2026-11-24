@@ -1,0 +1,20 @@
+# 3D models / heavy assets (not redistributed)
+ModelsFor3D/
+Aircraft/
+*.pak
+*.ucas
+*.utoc
+*.sig
+*.blend
+*.fbx
+*.obj
+*.glb
+*.gltf
+*.stl
+*.usd
+
+# Unreal build artifacts
+Saved/
+Intermediate/
+DerivedDataCache/
+Binaries/
