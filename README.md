@@ -2,7 +2,9 @@
 
 Spawn and arrange **3D models** inside **Subnautica 2**. Built for War Thunder and GTA 5 RP integrations.
 
-[▶ Watch the demo](https://youtu.be/REPLACE_ME?t=0) · [Screenshots](#screenshots)
+[Screenshots](#screenshots) · **Demo video:** link coming soon
+
+> The original demo video reached ~1M views in a day. The YouTube link with a timestamp will be added here.
 
 > **Logic-only repository.** 3D models are **not** included — see [What's not included](#whats-not-included). This repo contains the mod's Blueprint/Widget logic and documentation.
 
