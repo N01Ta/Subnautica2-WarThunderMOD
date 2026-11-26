@@ -2,9 +2,9 @@
 
 Spawn and arrange **3D models** inside **Subnautica 2**. Built for War Thunder and GTA 5 RP integrations.
 
-[Screenshots](#screenshots) · **Demo video:** link coming soon
+[▶ Watch the demo — «Я Провёл 100 Дней в Subnautica VR»](https://youtu.be/5DPaWvmewY8) · [07:25](https://youtu.be/5DPaWvmewY8?t=445) · [16:05](https://youtu.be/5DPaWvmewY8?t=965)
 
-> The original demo video reached ~1M views in a day. The YouTube link with a timestamp will be added here.
+> The mod was built for this video by **Имморталиус**. The video reached ~1M views in a few days.
 
 > **Logic-only repository.** 3D models are **not** included — see [What's not included](#whats-not-included). This repo contains the Blueprint/Widget payload **and** the UE4SS Lua runtime.
 
@@ -26,6 +26,12 @@ The mod has two parts:
 | War Thunder: Po-2 | |
 | --- | --- |
 | ![Po-2 in Subnautica 2](docs/screenshots/warthunder-po2.jpg) | |
+
+### From the video
+
+| 07:25 | 16:05 |
+| --- | --- |
+| [![07:25](docs/screenshots/video-07-25.jpg)](https://youtu.be/5DPaWvmewY8?t=445) | [![16:05](docs/screenshots/video-16-05.jpg)](https://youtu.be/5DPaWvmewY8?t=965) |
 
 ## Features
 
